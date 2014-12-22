@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A balade specifienge partly the maner, partly the matter, in the most excellent meetyng and lyke mar
+
+1. ¶A Balade specifienge partly the maner, partly the matter, in the most excellent meetyng and lyke mariage betwene our Soueraigne Lord, and our Soueraigne Lady, the Kynges and Queenes highnes. Pende by Iohn Heywod.
+
 #####Back#####
-A balade specifienge partly the maner, partly the matter, in the most excellent meetyng and lyke mar
+Imprinted at London by Wyllyam Ryddell.
 **Types of content**
 
   * There are 84 **verse** lines!
